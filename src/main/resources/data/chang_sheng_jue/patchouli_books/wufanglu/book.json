@@ -1,0 +1,18 @@
+{
+  "name": "chang_sheng_jue.wufanglu",
+  "landing_text": "chang_sheng_jue.wufanglu.desc",
+  "version": 0,
+  "subtitle": "chang_sheng_jue.wufanglu.desc2",
+  "creative_tab": "chang_sheng_jue:chang_sheng_jue_tool",
+  "use_resource_pack": true,
+  "book_texture": "chang_sheng_jue:textures/gui/patchouli/guideline.png",
+  "filler_texture": "chang_sheng_jue:textures/gui/patchouli/guideline_filler.png",
+  "model": "chang_sheng_jue:guideline",
+  "categories": [
+    "chang_sheng_jue:villages"
+  ],
+  "images": ["chang_sheng_jue:textures/gui/patchouli/villages/guideline_filler.png"],
+  "show_progress": false,
+  "give_book_on_first_join": true,
+  "i18n": true
+}

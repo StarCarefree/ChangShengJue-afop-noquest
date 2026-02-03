@@ -1,0 +1,13 @@
+{
+  "name": "chang_sheng_jue.village.villages.huizhou",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 0,
+  "icon": "chang_sheng_jue:textures/gui/patchouli/hui_shi.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "chang_sheng_jue.village.villages.huizhou",
+      "text": "chang_sheng_jue.village.villages.huizhou.page1.text"
+    }
+  ]
+}

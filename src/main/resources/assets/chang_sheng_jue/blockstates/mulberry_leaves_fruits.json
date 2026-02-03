@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "type=fruits": {
+      "model": "chang_sheng_jue:block/mulberry_leaves_fruits"
+    },
+    "type=leaves": {
+      "model": "chang_sheng_jue:block/mulberry_leaves"
+    }
+  }
+}

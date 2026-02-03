@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4241984,
+    "separation": 16,
+    "spacing": 48,
+    "exclusion_zone": {
+      "other_set": "#chang_sheng_jue:exclusionzone",
+      "chunk_count": 32
+    }
+  },
+  "structures": [
+    {
+      "structure": "chang_sheng_jue:sandstone_castle",
+      "weight": 1
+    }
+  ]
+}

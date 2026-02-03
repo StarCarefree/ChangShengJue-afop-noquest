@@ -1,0 +1,37 @@
+{
+  "name": "chang_sheng_jue.village.villager.seamstress",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 1,
+  "icon": "chang_sheng_jue:natural_silk",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.village.villager.seamstress",
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager{VillagerData: {profession: \"chang_sheng_jue:chang_sheng_jue_seamstress\"}}"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.seamstress.page2.anchor",
+      "title": "chang_sheng_jue.village.villager.seamstress.page2.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.seamstress.page2.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.seamstress.page3.anchor",
+      "title": "chang_sheng_jue.village.villager.seamstress.page3.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.seamstress.page3.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.seamstress.page4.anchor",
+      "title": "chang_sheng_jue.village.villager.seamstress.page4.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.seamstress.page4.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.seamstress.page5.anchor",
+      "title": "chang_sheng_jue.village.villager.seamstress.page5.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.seamstress.page5.text"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "questId": "584DF3EE-BD1A-44C1-B66D-5F1015AF8A0E",
+  "questName": "quest.chang_sheng_jue.kill.mob.questName",
+  "questDescription": "quest.chang_sheng_jue.kill.mob.questDescription",
+  "questRequirementsDescription": "quest.chang_sheng_jue.kill.mob.questRequirementsDescription",
+  "questType": "KILL",
+  "repeatable": true,
+  "requiredKills": 1,
+  "questRewards": [
+    {
+      "item": "chang_sheng_jue:yi_guan_tong_qian",
+      "count": {
+        "type": "minecraft:uniform",
+        "max": 6.0,
+        "min": 3.0
+      }
+    },
+    {
+      "item": "chang_sheng_jue:external_kung_fu_xp",
+      "count": 1
+    }
+  ]
+}

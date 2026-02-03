@@ -1,0 +1,13 @@
+{
+  "name": "chang_sheng_jue.village.villages.cave_dwelling",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 0,
+  "icon": "chang_sheng_jue:textures/gui/patchouli/yao_dong.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "chang_sheng_jue.village.villages.cave_dwelling",
+      "text": "chang_sheng_jue.village.villages.cave_dwelling.page1.text"
+    }
+  ]
+}

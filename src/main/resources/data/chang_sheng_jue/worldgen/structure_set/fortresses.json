@@ -1,0 +1,21 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "exclusion_zone": {
+      "other_set": "#chang_sheng_jue:exclusionzone",
+      "chunk_count": 32
+    },
+    "frequency": 0.1,
+    "frequency_reduction_method": "legacy_type_1",
+    "salt": 1825068955,
+    "spacing": 192,
+    "separation": 64,
+    "spread_type": "linear"
+  },
+  "structures": [
+    {
+      "structure": "chang_sheng_jue:fortresses",
+      "weight": 1
+    }
+  ]
+}

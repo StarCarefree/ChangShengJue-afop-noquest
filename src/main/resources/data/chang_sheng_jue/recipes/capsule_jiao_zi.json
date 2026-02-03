@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chang_sheng_jue:capsule"
+    },
+    {
+      "tag": "forge:crops/wheat"
+    },
+    {
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "result": {
+    "item": "chang_sheng_jue:capsule_jiao_zi"
+  }
+}

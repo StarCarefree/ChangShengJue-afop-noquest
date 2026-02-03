@@ -1,0 +1,24 @@
+{
+  "name": "chang_sheng_jue.function.painting_scroll",
+  "category": "chang_sheng_jue:function",
+  "sortnum": 2,
+  "icon": "chang_sheng_jue:painting_scroll",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.function.painting_scroll",
+      "type": "patchouli:spotlight",
+      "item": "chang_sheng_jue:painting_scroll",
+      "text": "chang_sheng_jue.function.painting_scroll.page1.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "chang_sheng_jue:painting_scroll",
+      "recipe2": "chang_sheng_jue:high_painting_scroll"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "chang_sheng_jue:width_painting_scroll",
+      "recipe2": "chang_sheng_jue:big_painting_scroll"
+    }
+  ]
+}

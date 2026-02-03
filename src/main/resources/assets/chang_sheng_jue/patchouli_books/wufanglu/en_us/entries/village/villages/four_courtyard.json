@@ -1,0 +1,13 @@
+{
+  "name": "chang_sheng_jue.village.villages.courtyard",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 0,
+  "icon": "chang_sheng_jue:textures/gui/patchouli/si_he_yuan.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "chang_sheng_jue.village.villages.courtyard",
+      "text": "chang_sheng_jue.village.villages.courtyard.page1.text"
+    }
+  ]
+}

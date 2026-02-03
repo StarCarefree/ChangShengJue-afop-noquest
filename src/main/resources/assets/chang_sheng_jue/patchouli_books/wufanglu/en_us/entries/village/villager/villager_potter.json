@@ -1,0 +1,37 @@
+{
+  "name": "chang_sheng_jue.village.villager.potter",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 1,
+  "icon": "chang_sheng_jue:blue_and_white_porcelain_flower_pots",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.village.villager.potter",
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager{VillagerData: {profession: \"chang_sheng_jue:chang_sheng_jue_potter\"}}"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.potter.page2.anchor",
+      "title": "chang_sheng_jue.village.villager.potter.page2.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.potter.page2.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.potter.page3.anchor",
+      "title": "chang_sheng_jue.village.villager.potter.page3.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.potter.page3.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.potter.page4.anchor",
+      "title": "chang_sheng_jue.village.villager.potter.page4.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.potter.page4.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.potter.page5.anchor",
+      "title": "chang_sheng_jue.village.villager.potter.page5.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.potter.page5.text"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "chang_sheng_jue.village.villager.farmer",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 1,
+  "icon": "chang_sheng_jue:yi_guan_tong_qian",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.village.villager.farmer",
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager{VillagerData: {profession: \"chang_sheng_jue:chang_sheng_jue_farmer\"}}"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.farmer.page2.anchor",
+      "title": "chang_sheng_jue.village.villager.farmer.page2.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.farmer.page2.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.farmer.page3.anchor",
+      "title": "chang_sheng_jue.village.villager.farmer.page3.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.farmer.page3.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.farmer.page4.anchor",
+      "title": "chang_sheng_jue.village.villager.farmer.page4.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.farmer.page4.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.farmer.page5.anchor",
+      "title": "chang_sheng_jue.village.villager.farmer.page5.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.farmer.page5.text"
+    }
+  ]
+}

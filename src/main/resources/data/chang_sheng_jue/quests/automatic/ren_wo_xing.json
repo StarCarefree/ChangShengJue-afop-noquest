@@ -1,0 +1,23 @@
+{
+  "questId": "dab3e694-291c-4b58-8ed2-4b215fbcf543",
+  "questName": "quest.chang_sheng_jue.automatic.death.questName",
+  "questDescription": "quest.chang_sheng_jue.automatic.death.questDescription",
+  "questRequirementsDescription": "quest.chang_sheng_jue.automatic.death.questRequirementsDescription",
+  "questType": "AUTOMATIC",
+  "repeatable": true,
+  "questDay": 7,
+  "questRewards": [
+    {
+      "item": "chang_sheng_jue:yi_guan_tong_qian",
+      "count": {
+        "type": "minecraft:uniform",
+        "max": 6.0,
+        "min": 3.0
+      }
+    },
+    {
+      "item": "chang_sheng_jue:internal_kung_fu_xp",
+      "count": 1
+    }
+  ]
+}

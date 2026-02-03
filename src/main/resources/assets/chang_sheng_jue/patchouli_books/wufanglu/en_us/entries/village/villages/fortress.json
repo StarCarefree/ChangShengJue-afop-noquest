@@ -1,0 +1,13 @@
+{
+  "name": "chang_sheng_jue.village.villages.sandstone_castle",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 0,
+  "icon": "chang_sheng_jue:textures/gui/patchouli/bao_lei.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "chang_sheng_jue.village.villages.sandstone_castle",
+      "text": "chang_sheng_jue.village.villages.sandstone_castle.page1.text"
+    }
+  ]
+}

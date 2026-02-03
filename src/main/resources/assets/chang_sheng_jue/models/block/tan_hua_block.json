@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "chang_sheng_jue:block/tan_hua_block"
+	}
+}

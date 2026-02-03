@@ -1,0 +1,19 @@
+{
+  "name": "chang_sheng_jue.xiake.stakes",
+  "category": "chang_sheng_jue:xiake",
+  "sortnum": 2,
+  "icon": "chang_sheng_jue:stakes",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.xiake.stakes",
+      "type": "patchouli:crafting",
+      "recipe": "chang_sheng_jue:stakes",
+      "text": "chang_sheng_jue.xiake.stakes.page1.text"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "chang_sheng_jue:stakes",
+      "text": "chang_sheng_jue.xiake.stakes.page2.text"
+    }
+  ]
+}

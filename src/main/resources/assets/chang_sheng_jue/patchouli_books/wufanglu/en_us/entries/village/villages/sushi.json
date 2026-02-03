@@ -1,0 +1,13 @@
+{
+  "name": "chang_sheng_jue.village.villages.suzhou",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 0,
+  "icon": "chang_sheng_jue:textures/gui/patchouli/su_shi.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "chang_sheng_jue.village.villages.suzhou",
+      "text": "chang_sheng_jue.village.villages.suzhou.page1.text"
+    }
+  ]
+}

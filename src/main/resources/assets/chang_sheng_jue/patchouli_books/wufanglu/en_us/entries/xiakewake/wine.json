@@ -1,0 +1,14 @@
+{
+  "name": "chang_sheng_jue.xiake.wine",
+  "category": "chang_sheng_jue:xiake",
+  "sortnum": 5,
+  "icon": "chang_sheng_jue:shi_li_xiang",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.xiake.wine",
+      "type": "patchouli:spotlight",
+      "item": "chang_sheng_jue:shi_li_xiang",
+      "text": "chang_sheng_jue.xiake.wine.page1.text"
+    }
+  ]
+}

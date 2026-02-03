@@ -1,0 +1,22 @@
+{
+  "name": "chang_sheng_jue.xiake.martial_arts_manual",
+  "category": "chang_sheng_jue:xiake",
+  "sortnum": 3,
+  "icon": "chang_sheng_jue:immortal_miracle",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.xiake.martial_arts_manual",
+      "type": "patchouli:spotlight",
+      "item": "chang_sheng_jue:immortal_miracle",
+      "text": "chang_sheng_jue.xiake.martial_arts_manual.page1.text"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.xiake.martial_arts_manual.page2.text"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.xiake.martial_arts_manual.page3.text"
+    }
+  ]
+}

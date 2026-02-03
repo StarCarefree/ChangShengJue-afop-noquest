@@ -1,0 +1,38 @@
+{
+  "name": "chang_sheng_jue.village.villager.chief",
+  "category": "chang_sheng_jue:village",
+  "sortnum": 1,
+  "icon": "chang_sheng_jue:gold_bullions",
+  "pages": [
+    {
+      "title": "chang_sheng_jue.village.villager.chief",
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager{VillagerData: {profession: \"chang_sheng_jue:chang_sheng_jue_chief\"}}",
+      "text": "chang_sheng_jue.village.villager.chief.page1.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.chief.page2.anchor",
+      "title": "chang_sheng_jue.village.villager.chief.page2.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.chief.page2.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.chief.page3.anchor",
+      "title": "chang_sheng_jue.village.villager.chief.page3.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.chief.page3.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.chief.page4.anchor",
+      "title": "chang_sheng_jue.village.villager.chief.page4.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.chief.page4.text"
+    },
+    {
+      "anchor": "chang_sheng_jue.village.villager.chief.page5.anchor",
+      "title": "chang_sheng_jue.village.villager.chief.page5.title",
+      "type": "patchouli:text",
+      "text": "chang_sheng_jue.village.villager.chief.page5.text"
+    }
+  ]
+}
